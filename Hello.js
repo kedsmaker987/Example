@@ -10,6 +10,8 @@ function hello(){
 		var disXY = 0;
 		var disYZ = 0;
 	}
+	
+	return new1;
 		
 }
 	
