@@ -11,7 +11,7 @@ function hello(){
 		var disYZ = 0;
 	}
 	
-	return new1;
+	return new2;
 		
 }
 	
