@@ -1,2 +1,3 @@
-Hello This is my first job.
-Two.
+function hello(){
+    
+}
