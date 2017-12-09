@@ -4,6 +4,7 @@ function hello(){
 		var disX = 0;
 		var disY = 0;
 		var disZ = 0;
+		var disXY = 0;
 	}
 		
 }
