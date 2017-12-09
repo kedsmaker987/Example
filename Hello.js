@@ -1,7 +1,10 @@
+style{
+	
+}
 function hello(){
 	var obj = document.getElementById(id);
 	obj.onmousedown = function(){
-		var dizZ = 12;
+		var dizx = 12;
 		var disY = 0;
 		var disZ = 0;
 		var disXY = 0;
